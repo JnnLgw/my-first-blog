@@ -25,19 +25,19 @@ image: "assets/images/1000.jfif"
 跑垒时崴了脚，尔洗笑着摇头：“没事，再打一局，打到天亮！”
 在尔洗眼中，打棒球沒有爬山累，也比做农活有意思。
 
- ![202]({{ site.baseurl }}/assets/images/63.jpg)
+ ![203]({{ site.baseurl }}/assets/images/63.jpg)
  
  坐在学校舞台的尔洗
  
- ![202]({{ site.baseurl }}/assets/images/67.jpg) 
+ ![204]({{ site.baseurl }}/assets/images/67.jpg) 
  
  尔洗的宿舍，身后的粉色纱帐十分注目
  
- ![202]({{ site.baseurl }}/assets/images/微信图片_20210315155334.png)
+ ![205]({{ site.baseurl }}/assets/images/微信图片_20210315155334.png)
  
  9月参与一部棒球主题电影角色的选拔
 
- ![202]({{ site.baseurl }}/assets/images/4e4a20a4462309f7baf545a619c4c6f4d6cad63a.jpeg)
+ ![206]({{ site.baseurl }}/assets/images/4e4a20a4462309f7baf545a619c4c6f4d6cad63a.jpeg)
  
  参加电影拍摄的尔洗和男队员们一起训练。
  
