@@ -37,7 +37,8 @@ image: "assets/images/1000.jfif"
  
  9月参与一部棒球主题电影角色的选拔
 
- ![206]({{ site.baseurl }}/assets/images/4e4a20a4462309f7baf545a619c4c6f4d6cad63a.jpeg)
+ ![206]({{ site.baseurl }}/assets/images/68.jpeg)
+ ![206]({{ site.baseurl }}/assets/images/69.jpeg)
  
  参加电影拍摄的尔洗和男队员们一起训练。
  
