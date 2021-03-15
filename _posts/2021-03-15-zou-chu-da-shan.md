@@ -33,7 +33,7 @@ image: "assets/images/1000.jfif"
  
  尔洗的宿舍，身后的粉色纱帐十分注目
  
- ![205]({{ site.baseurl }}/assets/images/微信图片_20210315155334.png)
+ ![205]({{ site.baseurl }}/assets/images/20210315155334.png)
  
  9月参与一部棒球主题电影角色的选拔
 
