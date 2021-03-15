@@ -33,13 +33,13 @@ image: "assets/images/1000.jfif"
  
  尔洗的宿舍，身后的粉色纱帐十分注目
  
- ![205]({{ site.baseurl }}/assets/images/20210315155334.png)
+ ![205]({{ site.baseurl }}/assets/images/20210315170159.png)
  
  9月参与一部棒球主题电影角色的选拔
 
  ![206]({{ site.baseurl }}/assets/images/68.jpeg)  
  
- ![206]({{ site.baseurl }}/assets/images/69.jpeg)
+ ![207]({{ site.baseurl }}/assets/images/69.jpeg)
  
  参加电影拍摄的尔洗和男队员们一起训练。
  
